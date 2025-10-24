@@ -8,8 +8,8 @@ return {
         transparency = false, -- or true if you like transparent background
       },
       styles = {
-        comments = "italic",
-        keywords = "bold",
+        comments = "bold",
+        keywords = "italic",
       },
     })
     vim.cmd("colorscheme onedark_vivid")
